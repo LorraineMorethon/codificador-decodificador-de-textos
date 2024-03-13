@@ -1,4 +1,4 @@
-<h1>Codificando e decoficando textos!</h1>
+<h1>Codificando e decodificando textos!</h1>
 
 <h2>Sobre</h2>
 <p>Challenge Based Learning - Alura.</p>
