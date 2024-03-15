@@ -27,7 +27,7 @@ body{
 }
 
 .cabecalho h1{
-    color: var(--cortitulo);
+    color: white;
     padding: 5rem;
 
 }
@@ -159,7 +159,7 @@ body{
     color: var(--corsecundaria);
 }
 
-@media(max-width: 840px) {
+@media(max-width: 909px) {
     .output {
         flex-direction: column;
     }
